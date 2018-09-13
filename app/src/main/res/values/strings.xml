@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Nota Semestral Faculdade Tecnologica</string>
+    <string name="txtViewNotaNp1">Nota np1</string>
+    <string name="txtViewNotaNp2">Nota np2</string>
 </resources>
