@@ -2,4 +2,7 @@
     <string name="app_name">Nota Semestral Faculdade Tecnologica</string>
     <string name="hintEditViewNotaNp1">Nota NP1</string>
     <string name="hintEditViewNotaNp2">Nota NP2</string>
+    <string name="textViewResult">Resultado:</string>
+    <string name="hintEditViewNotaPim">Nota Pim</string>
+    <string name="textCalcular">Calcular</string>
 </resources>
